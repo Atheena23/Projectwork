@@ -1,0 +1,67 @@
+[
+  {
+    "postId": 1758515834214,
+    "content": "This is my first post 🚀",
+    "author": "Joel",
+    "tags": [
+      "express",
+      "nodejs",
+      "api"
+    ],
+    "createdAt": "2025-09-22T04:37:14.214Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": 1758515823463,
+    "content": "This is my first post 🚀",
+    "author": "Harish",
+    "tags": [
+      "express",
+      "nodejs",
+      "api"
+    ],
+    "createdAt": "2025-09-22T04:37:03.463Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": 1758515812631,
+    "content": "This is my first post 🚀",
+    "author": "Madiha",
+    "tags": [
+      "express",
+      "nodejs",
+      "api"
+    ],
+    "createdAt": "2025-09-22T04:36:52.631Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": 1758515804695,
+    "content": "This is my first post 🚀",
+    "author": "Manasa",
+    "tags": [
+      "express",
+      "nodejs",
+      "api"
+    ],
+    "createdAt": "2025-09-22T04:36:44.695Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
+    "postId": 1758515754708,
+    "content": "This is my first post 🚀",
+    "author": "Atheena",
+    "tags": [
+      "express",
+      "nodejs",
+      "api"
+    ],
+    "createdAt": "2025-09-22T04:35:54.708Z",
+    "likes": 0,
+    "status": "published"
+  }
+]
