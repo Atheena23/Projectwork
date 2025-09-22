@@ -1,5 +1,18 @@
 [
   {
+    "postId": 1758516288705,
+    "content": "This is my first post 🚀",
+    "author": "Joel",
+    "tags": [
+      "express",
+      "nodejs",
+      "api"
+    ],
+    "createdAt": "2025-09-22T04:44:48.705Z",
+    "likes": 0,
+    "status": "published"
+  },
+  {
     "postId": 1758515834214,
     "content": "This is my first post 🚀",
     "author": "Joel",
